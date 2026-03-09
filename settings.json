@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OSMVsmp.aternos.me
-",
+    "ip": "OSMVsmp.aternos.me",
     "port": 44255,
     "version": "1.21.1"
   },
